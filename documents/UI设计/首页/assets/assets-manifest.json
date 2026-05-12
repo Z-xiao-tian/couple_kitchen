@@ -1,0 +1,134 @@
+{
+  "home_reference.png": {
+    "box": [
+      0,
+      0,
+      864,
+      1821
+    ],
+    "size": [
+      864,
+      1821
+    ]
+  },
+  "bg_home_kitchen_header.png": {
+    "box": [
+      0,
+      70,
+      864,
+      360
+    ],
+    "size": [
+      864,
+      290
+    ]
+  },
+  "dish_tomato_egg.png": {
+    "box": [
+      70,
+      450,
+      350,
+      730
+    ],
+    "size": [
+      280,
+      280
+    ]
+  },
+  "card_random_dish.png": {
+    "box": [
+      36,
+      790,
+      421,
+      1060
+    ],
+    "size": [
+      385,
+      270
+    ]
+  },
+  "card_browse_menu.png": {
+    "box": [
+      444,
+      790,
+      829,
+      1060
+    ],
+    "size": [
+      385,
+      270
+    ]
+  },
+  "dish_potato_shreds.png": {
+    "box": [
+      48,
+      1158,
+      226,
+      1330
+    ],
+    "size": [
+      178,
+      172
+    ]
+  },
+  "dish_egg_noodles.png": {
+    "box": [
+      250,
+      1158,
+      429,
+      1330
+    ],
+    "size": [
+      179,
+      172
+    ]
+  },
+  "dish_fried_rice.png": {
+    "box": [
+      450,
+      1158,
+      630,
+      1330
+    ],
+    "size": [
+      180,
+      172
+    ]
+  },
+  "dish_green_pepper_pork.png": {
+    "box": [
+      653,
+      1158,
+      831,
+      1330
+    ],
+    "size": [
+      178,
+      172
+    ]
+  },
+  "thumb_tomato_egg.png": {
+    "box": [
+      75,
+      1591,
+      147,
+      1663
+    ],
+    "size": [
+      72,
+      72
+    ]
+  },
+  "thumb_egg_noodles.png": {
+    "box": [
+      359,
+      1591,
+      431,
+      1663
+    ],
+    "size": [
+      72,
+      72
+    ]
+  }
+}

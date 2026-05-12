@@ -1,0 +1,30 @@
+{
+  "page": "menu",
+  "suggestedPath": "apps/miniapp/src/static/images/menu",
+  "files": [
+    "dish_cola_chicken_wings.png",
+    "dish_corn_rib_soup.png",
+    "dish_green_pepper_pork.png",
+    "dish_mapo_tofu.png",
+    "dish_potato_shreds.png",
+    "dish_tomato_egg.png",
+    "icon_empty_order_plate.png",
+    "menu_header_couple.png",
+    "menu_reference.png"
+  ],
+  "icons": [
+    "category_all.svg",
+    "category_dessert.svg",
+    "category_drink.svg",
+    "category_home_cooking.svg",
+    "category_noodles.svg",
+    "category_rice.svg",
+    "category_snack.svg",
+    "category_soup.svg",
+    "empty_order.svg",
+    "filter.svg",
+    "heart_outline.svg",
+    "plus.svg",
+    "search.svg"
+  ]
+}

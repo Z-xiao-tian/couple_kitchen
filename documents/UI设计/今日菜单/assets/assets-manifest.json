@@ -1,0 +1,31 @@
+{
+  "page": "today-menu",
+  "suggestedPath": "apps/miniapp/src/static/images/today-menu",
+  "files": [
+    "dish_cola_chicken_wings.png",
+    "dish_corn_rib_soup.png",
+    "dish_tomato_egg.png",
+    "status_cooking_pot.png",
+    "summary_order_icon.png",
+    "today_menu_header_clean.png",
+    "today_menu_header_full.png",
+    "today_menu_reference.png"
+  ],
+  "icons": [
+    "add.svg",
+    "bowl.svg",
+    "edit.svg",
+    "more.svg",
+    "note.svg",
+    "status_cooking.svg",
+    "status_delivered.svg",
+    "status_done.svg",
+    "status_submitted.svg",
+    "tab_cart_active.svg",
+    "tab_home.svg",
+    "tab_menu.svg",
+    "tab_profile.svg",
+    "urge.svg"
+  ],
+  "note": "已按无价格版本重新整理素材；页面实现时请不要使用价格相关字段。"
+}
