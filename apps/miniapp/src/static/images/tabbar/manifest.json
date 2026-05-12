@@ -1,0 +1,42 @@
+{
+    "home.png": {
+        "size": "96x96",
+        "color": "#8A8A8A",
+        "transparent": true
+    },
+    "home-active.png": {
+        "size": "96x96",
+        "color": "#FF704D",
+        "transparent": true
+    },
+    "menu.png": {
+        "size": "96x96",
+        "color": "#8A8A8A",
+        "transparent": true
+    },
+    "menu-active.png": {
+        "size": "96x96",
+        "color": "#FF704D",
+        "transparent": true
+    },
+    "cart.png": {
+        "size": "96x96",
+        "color": "#8A8A8A",
+        "transparent": true
+    },
+    "cart-active.png": {
+        "size": "96x96",
+        "color": "#FF704D",
+        "transparent": true
+    },
+    "profile.png": {
+        "size": "96x96",
+        "color": "#8A8A8A",
+        "transparent": true
+    },
+    "profile-active.png": {
+        "size": "96x96",
+        "color": "#FF704D",
+        "transparent": true
+    }
+}
