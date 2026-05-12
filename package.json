@@ -14,7 +14,8 @@
         "server:pm2": "pm2 start pnpm --name couple-kitchen-server -- --filter @couple_kitchen/server start:prod",
         "miniapp:dev": "pnpm --filter @couple_kitchen/miniapp dev:mp-weixin",
         "miniapp:build": "pnpm --filter @couple_kitchen/miniapp build:mp-weixin",
-        "docker:dev": "docker compose --env-file ./apps/server/environments/.env.development up -d"
+        "docker:dev": "docker compose --env-file ./apps/server/environments/.env.development up -d",
+        "docker:prod": "docker compose --env-file ./apps/server/environments/.env.production up -d"
     },
     "devDependencies": {
         "@eslint/js": "^10.0.1",
