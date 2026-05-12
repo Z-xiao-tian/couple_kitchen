@@ -1,0 +1,46 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+playground
+CI&CD
+
+# 忽略所有 environments 目录下的环境变量文件
+**/environments/*
+# 但不忽略目录本身，否则后面的反向规则可能失效
+!**/environments/
+# 保留 .env 和 .env.example
+!**/environments/.env
+!**/environments/.env.example
+
+# 忽略所有 .claude-environments 目录下的环境变量文件
+**/.claude-environments/*
+# 但不忽略目录本身，否则后面的反向规则可能失效
+!**/.claude-environments/
+# 保留 example.env
+!**/.claude-environments/example.env
+
+.claude-environments/.env.claude.deepseek
+
+.turbo

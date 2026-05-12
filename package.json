@@ -1,0 +1,30 @@
+{
+    "name": "couple_kitchen",
+    "private": true,
+    "version": "1.0.0",
+    "packageManager": "pnpm@11.0.9",
+    "scripts": {
+        "dev": "turbo dev",
+        "build": "turbo build",
+        "lint": "turbo lint",
+        "typecheck": "turbo typecheck",
+        "format": "prettier --write .",
+        "server:dev": "pnpm --filter @couple-kitchen/server dev",
+        "server:build": "pnpm --filter @couple-kitchen/server build",
+        "miniapp:dev": "pnpm --filter @couple-kitchen/miniapp dev:mp-weixin",
+        "miniapp:build": "pnpm --filter @couple-kitchen/miniapp build:mp-weixin",
+        "docker:dev": "docker compose --env-file ./apps/server/environments/.env.development up -d"
+    },
+    "devDependencies": {
+        "@eslint/js": "^10.0.1",
+        "eslint": "^10.3.0",
+        "eslint-config-prettier": "^10.1.8",
+        "eslint-plugin-prettier": "^5.5.5",
+        "eslint-plugin-vue": "^10.9.1",
+        "globals": "^17.6.0",
+        "prettier": "latest",
+        "turbo": "latest",
+        "typescript": "latest",
+        "typescript-eslint": "^8.59.2"
+    }
+}
